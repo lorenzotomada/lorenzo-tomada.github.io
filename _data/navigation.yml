@@ -9,25 +9,29 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
+    url: https://www.researchgate.net/profile/Lorenzo-Tomada?ev=hdr_xprf
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Contacts"
+  #   url: /contacts/
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # # - title: "CV"
+  # #   url: /cv-json/
+    
+  # - title: "Guide"
+  #   url: /markdown/
